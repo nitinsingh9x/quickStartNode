@@ -25,7 +25,7 @@ export class LoginComponent implements OnInit {
             else
             console.log(res);
         })
-        console.log('response after fail login');
+        console.log('response after fails login');
     }
 
     clearvalues(){
